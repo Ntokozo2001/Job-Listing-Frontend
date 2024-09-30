@@ -10,7 +10,7 @@ function AddJobForm() {
     location: '',           // Location input
     positionType: '',       // Position Type (checkbox)
     requirements: '',       // Requirements input
-    salary: ''              // Salary input
+    remuneration: ''              // Salary input
   });
 
   // handleSubmit is called when the form is submitted
